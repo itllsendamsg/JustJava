@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\JustJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-la\\values-la.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\LandMStorage\\AndroidStudio\\AndroidStudioProjects\\JustJava\\app\\src\\main\\res\\values-la\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

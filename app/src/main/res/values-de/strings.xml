@@ -1,0 +1,86 @@
+<!--
+German with toast messages and boolean true/false replaced by strings
+    Deutsch
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+   <!-- &lt;!&ndash; Title for the application. [CHAR LIMIT=12] &ndash;&gt;
+    <string name="app_name">Nur Kaffee</string>
+
+    &lt;!&ndash; Hint text display in the empty field for the user's name [CHAR LIMIT=20] &ndash;&gt;
+    <string name="name">Name</string>
+
+    &lt;!&ndash; Header text for the list of toppings. [CHAR LIMIT=20] &ndash;&gt;
+    <string name="toppings">Garnituren</string>
+
+    &lt;!&ndash; Text to display for whipped cream in the list of toppings [CHAR LIMIT=20] &ndash;&gt;
+    <string name="whipped_cream">Sahnehaube</string>
+
+    &lt;!&ndash; Text to display for chocolate in the list of toppings [CHAR LIMIT=20] &ndash;&gt;
+    <string name="chocolate">Schokostreusel</string>
+
+    &lt;!&ndash; Header text to display above the quantity pickers [CHAR LIMIT=20] &ndash;&gt;
+    <string name="quantity">Anzahl</string>
+
+    &lt;!&ndash; Number to display in side the quantity picker [CHAR LIMIT=5] &ndash;&gt;
+    <string name="initial_quantity_value">2</string>
+
+    &lt;!&ndash; Text to display in the order Button [CHAR LIMIT=20] &ndash;&gt;
+    <string name="order">Bestellen</string>
+
+    &lt;!&ndash; Header text for the order summary. [CHAR LIMIT=20] &ndash;&gt;
+    <string name="order_summary">Zusammenfassung</string>
+
+    &lt;!&ndash; Name for the order summary. It will be shown in the format of "Name: Amy" where Amy is the
+    user's name. [CHAR LIMIT=NONE] &ndash;&gt;
+    <string name="order_summary_name">Name: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+
+    &lt;!&ndash;
+      Whipped cream topping for the order summary. It will be shown in the format of
+      "Add whipped cream? yes" or "Add whipped cream? no". [CHAR LIMIT=NONE]
+    &ndash;&gt;
+    <string name="order_summary_whipped_cream">Sahnehaube hinzufügen? <xliff:g example="no" id="addWhippedCream">%s</xliff:g></string>
+
+    &lt;!&ndash;
+      Chocolate topping for the order summary. It will be shown in the format of
+      "Add chocolate? yes" or "Add chocolate? no". [CHAR LIMIT=NONE]
+    &ndash;&gt;
+    <string name="order_summary_chocolate">Schokostreusel hinzufügen? <xliff:g example="no" id="addChocolate">%s</xliff:g></string>
+
+    &lt;!&ndash;
+      Quantity of coffee cups for the order summary. It will be shown in the format of
+      "Quantity: 2", where 2 is the number of cups ordered. [CHAR LIMIT=NONE]
+    &ndash;&gt;
+    <string name="order_summary_quantity">Anzahl: <xliff:g example="2" id="quantity">%d</xliff:g></string>
+
+    &lt;!&ndash;
+      Total price for the order summary. It will be shown in the format of
+      "Total: $10" where $10 is the price. [CHAR LIMIT=NONE]
+    &ndash;&gt;
+    <string name="order_summary_price">Gesamtpreis: $<xliff:g example="10" id="price">%s</xliff:g></string>
+
+    &lt;!&ndash; Initial value for Total price for the order summary. [CHAR LIMIT=NONE] &ndash;&gt;
+    <string name="order_summary_price_initial">Gesamtpreis: $10</string>
+
+    &lt;!&ndash; Thank you message for the order summary. [CHAR LIMIT=NONE] &ndash;&gt;
+    <string name="thank_you">Danke!</string>
+
+    &lt;!&ndash;
+      Subject line for the order summary email. It will be in the format of
+      "Just Java order for Amy" where Amy is the user's name. [CHAR LIMIT=NONE]
+    &ndash;&gt;
+    <string name="order_summary_email_subject">Nur Kaffee Bestellung für <xliff:g example="Amy" id="name">%s</xliff:g></string>
+
+    &lt;!&ndash; String to use instead of the boolean value true. [CHAR LIMIT=10] &ndash;&gt;
+    <string name="strtrue">ja</string>
+
+    &lt;!&ndash; String to use instead of the boolean value false. [CHAR LIMIT=10] &ndash;&gt;
+    <string name="strfalse">nein</string>
+
+    &lt;!&ndash; String to use in a toast message if the maximum allowed amount is exceeded. [CHAR LIMIT=45] &ndash;&gt;
+    <string name="toast_msg_max_quantity_exceeded">Maximum sind 100 Kaffee pro Bestellung</string>
+
+    &lt;!&ndash; String to use in a toast message if the miniimum allowed amount is exceeded. [CHAR LIMIT=45] &ndash;&gt;
+    <string name="toast_msg_min_quantity_exceeded">Minimum ist ein Kaffee pro Bestellung</string>-->
+
+</resources>

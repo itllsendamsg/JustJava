@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:3:11-49
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\LandLMM\.android\build-cache\c2b1142db5438ae649e90628752f208c239d24ee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\LandLMM\.android\build-cache\567ec843ad9dd064aae380a2dd9250db8d8ae3b1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\LandLMM\.android\build-cache\5ee70ddf14ee87088fd2599b5c550d2e16e4e0fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\LandLMM\.android\build-cache\2af3abf5340b9f40a67c4fd6f6d68faec2185fb4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\LandLMM\.android\build-cache\b3ec182a450b08487a49d7c3c39f93e766b96df2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\LandLMM\.android\build-cache\969ba073d0e3d13d97cd859fa29ac64035987fbc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\LandLMM\.android\build-cache\0cfcae16e5ecc6a4a6c6a56f2c1972c011b1fa80\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\LandLMM\.android\build-cache\d32e493a73591e50279c2bd79f8c739beaccb9a7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\LandLMM\.android\build-cache\f2b282122904bfadb7c9d74ae5a87f5991f1952e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\LandLMM\.android\build-cache\547450f1e256d5eb8b1e795b4a51c6347bf89cfd\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.justjava.MainActivity
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\LandLMM\.android\build-cache\c2b1142db5438ae649e90628752f208c239d24ee\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\LandLMM\.android\build-cache\567ec843ad9dd064aae380a2dd9250db8d8ae3b1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\LandLMM\.android\build-cache\5ee70ddf14ee87088fd2599b5c550d2e16e4e0fa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\LandLMM\.android\build-cache\2af3abf5340b9f40a67c4fd6f6d68faec2185fb4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\LandLMM\.android\build-cache\b3ec182a450b08487a49d7c3c39f93e766b96df2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\LandLMM\.android\build-cache\969ba073d0e3d13d97cd859fa29ac64035987fbc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\LandLMM\.android\build-cache\0cfcae16e5ecc6a4a6c6a56f2c1972c011b1fa80\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\LandLMM\.android\build-cache\d32e493a73591e50279c2bd79f8c739beaccb9a7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\LandLMM\.android\build-cache\f2b282122904bfadb7c9d74ae5a87f5991f1952e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\LandLMM\.android\build-cache\547450f1e256d5eb8b1e795b4a51c6347bf89cfd\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\LandLMM\.android\build-cache\c2b1142db5438ae649e90628752f208c239d24ee\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\LandMStorage\AndroidStudio\AndroidStudioProjects\JustJava\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\LandLMM\.android\build-cache\c2b1142db5438ae649e90628752f208c239d24ee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\LandLMM\.android\build-cache\567ec843ad9dd064aae380a2dd9250db8d8ae3b1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\LandLMM\.android\build-cache\5ee70ddf14ee87088fd2599b5c550d2e16e4e0fa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\LandLMM\.android\build-cache\2af3abf5340b9f40a67c4fd6f6d68faec2185fb4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\LandLMM\.android\build-cache\b3ec182a450b08487a49d7c3c39f93e766b96df2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\LandLMM\.android\build-cache\969ba073d0e3d13d97cd859fa29ac64035987fbc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\LandLMM\.android\build-cache\0cfcae16e5ecc6a4a6c6a56f2c1972c011b1fa80\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\LandLMM\.android\build-cache\d32e493a73591e50279c2bd79f8c739beaccb9a7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\LandLMM\.android\build-cache\f2b282122904bfadb7c9d74ae5a87f5991f1952e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\LandLMM\.android\build-cache\c2b1142db5438ae649e90628752f208c239d24ee\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\LandLMM\.android\build-cache\c2b1142db5438ae649e90628752f208c239d24ee\output\AndroidManifest.xml:26:9-47
